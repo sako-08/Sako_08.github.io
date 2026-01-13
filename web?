@@ -1,0 +1,39 @@
+<!-- Write code below 💖-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+  body {
+    width: 85%;
+    margin: auto;
+  }
+
+  h1 {
+    text-align: left;
+  }
+
+  img {
+    border: 3px solid blue;
+  }
+
+  #top-8-wrapper {
+    text-align: center;
+  }
+
+  .friend-card {
+    display: inline-block;
+    margin: 1px;
+    text-align: center;
+  }
+
+  .friend-name {
+    color: blue;
+  }
+</style>
+</head>
+<body>
+  <div id="top-8-wrapper">
+    <h1>My Top Friends</h1>
+    <div class="top-8-row"><div class="friend-card"><h2 class="friend-name">Dayanna</h2><img src="https://i.pinimg.com/originals/e4/d3/80/e4d3809ca3d2e754da03df78e55cb19a.jpg" alt="stray kids"></div><div class="friend-card"><h2 class="friend-name">Maria</h2><img src="https://www.arkiplus.com/wp-content/uploads/2021/03/partes-iglesia.jpeg" alt="Iglesia"></div><div class="friend-card"><h2 class="friend-name">Adriana</h2><img src="https://fr.web.img5.acsta.net/pictures/19/09/29/10/35/5133862.jpg" alt="Soy Luna"></div><div class="friend-card"><h2 class="friend-name">Jennifer</h2><img src="https://office2000.com.uy/cache/office%202000/productos/1/99300-1100x1100.jpg" alt="Oso"></div></div>
+       <div class="top-8-row"><div class="friend-card"><h2 class="friend-name">Lorena</h2><img src="https://images.genius.com/7a60063ab2626fbe39cd713ad1189472.1000x500x1.jpg" alt="Black Pink"></div><div class="friend-card"><h2 class="friend-name">Devora</h2><img src="https://http2.mlstatic.com/D_NQ_NP_876487-MLC75437923319_032024-O.webp" alt="Tata"></div><div class="friend-card"><h2 class="friend-name">Stephanie</h2><img src="https://libretilla.com/wp-content/uploads/2021/06/willis-tower-1536x1024.jpg" alt="Altura"></div><div class="friend-card"><h2 class="friend-name">Alison</h2><img src="https://frikimall.com/wp-content/uploads/2025/03/O1CN01V049aM1PSJOPRKE4u_2215603771839-1024x1024.jpg" alt="Kat"></div></div>
